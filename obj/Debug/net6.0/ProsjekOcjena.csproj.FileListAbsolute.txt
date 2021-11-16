@@ -1,0 +1,15 @@
+D:\Visual Studio\C#\ProsjekOcjena\ProsjekOcjena\bin\Debug\net6.0\ProsjekOcjena.exe
+D:\Visual Studio\C#\ProsjekOcjena\ProsjekOcjena\bin\Debug\net6.0\ProsjekOcjena.deps.json
+D:\Visual Studio\C#\ProsjekOcjena\ProsjekOcjena\bin\Debug\net6.0\ProsjekOcjena.runtimeconfig.json
+D:\Visual Studio\C#\ProsjekOcjena\ProsjekOcjena\bin\Debug\net6.0\ProsjekOcjena.dll
+D:\Visual Studio\C#\ProsjekOcjena\ProsjekOcjena\bin\Debug\net6.0\ref\ProsjekOcjena.dll
+D:\Visual Studio\C#\ProsjekOcjena\ProsjekOcjena\bin\Debug\net6.0\ProsjekOcjena.pdb
+D:\Visual Studio\C#\ProsjekOcjena\ProsjekOcjena\obj\Debug\net6.0\ProsjekOcjena.csproj.AssemblyReference.cache
+D:\Visual Studio\C#\ProsjekOcjena\ProsjekOcjena\obj\Debug\net6.0\ProsjekOcjena.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\C#\ProsjekOcjena\ProsjekOcjena\obj\Debug\net6.0\ProsjekOcjena.AssemblyInfoInputs.cache
+D:\Visual Studio\C#\ProsjekOcjena\ProsjekOcjena\obj\Debug\net6.0\ProsjekOcjena.AssemblyInfo.cs
+D:\Visual Studio\C#\ProsjekOcjena\ProsjekOcjena\obj\Debug\net6.0\ProsjekOcjena.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C#\ProsjekOcjena\ProsjekOcjena\obj\Debug\net6.0\ProsjekOcjena.dll
+D:\Visual Studio\C#\ProsjekOcjena\ProsjekOcjena\obj\Debug\net6.0\ref\ProsjekOcjena.dll
+D:\Visual Studio\C#\ProsjekOcjena\ProsjekOcjena\obj\Debug\net6.0\ProsjekOcjena.pdb
+D:\Visual Studio\C#\ProsjekOcjena\ProsjekOcjena\obj\Debug\net6.0\ProsjekOcjena.genruntimeconfig.cache
